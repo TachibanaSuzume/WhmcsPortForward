@@ -1,0 +1,141 @@
+#YVSY * {
+    font-family: 'Helvetica Neue','Hiragino Sans GB','Helvetica Neue','Hiragino Sans GB','Microsoft YaHei','Open Sans',sans-serif !important;
+    color: #555;
+}
+#YVSY a {
+    text-decoration: none;
+}
+#YVSY small {
+    color: #999;
+}
+#YVSY ul, li {
+    list-style: none;
+}
+#YVSY .fa {
+    font-family: 'FontAwesome' !important;
+}
+#YVSY .mdi {
+    font-family: "Material Design Icons" !important;
+}
+#YVSY .glyphicon {
+    font-family: 'Glyphicons Halflings', 'Open Sans',sans-serif !important;
+}
+#YVSY .box {
+    border: 1px solid #DDD;
+    display:block;
+    width:100%;
+    border-radius: 4px;
+    padding:20px;
+    margin-bottom: 16px;
+}
+#YVSY .box:hover {
+    border: 1px solid #337ab7;
+}
+#YVSY .boxTitle {
+    font-weight:300;
+    color:#9da2a6;
+    margin-bottom:4px;
+}
+#YVSY .boxContent {
+    color:#363b40;
+    font-size:26px;
+    font-weight:500;
+    line-height:32px;
+}
+#YVSY .p-0 {
+    padding: 0 !important;
+}
+#YVSY .p-20 {
+    padding: 20px !important;
+}
+#YVSY .p-30 {
+    padding: 30px !important;
+}
+#YVSY .p-l-0 {
+    padding-left: 0 !important;
+}
+#YVSY .p-r-0 {
+    padding-right: 0 !important;
+}
+#YVSY .p-t-0 {
+    padding-top: 0 !important;
+}
+#YVSY .p-b-0 {
+    padding-bottom: 0 !important;
+}
+#YVSY .p-t-10 {
+    padding-top: 10px !important;
+}
+#YVSY .p-b-10 {
+    padding-bottom: 10px !important;
+}
+#YVSY .p-l-r-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#YVSY .m-0 {
+    margin: 0 !important;
+}
+#YVSY .m-r-5 {
+    margin-right: 5px !important;
+}
+#YVSY .m-r-10 {
+    margin-right: 10px !important;
+}
+#YVSY .m-r-15 {
+    margin-right: 15px !important;
+}
+#YVSY .m-l-5 {
+    margin-left: 5px !important;
+}
+#YVSY .m-l-10 {
+    margin-left: 10px !important;
+}
+#YVSY .m-l-15 {
+    margin-left: 15px !important;
+}
+#YVSY .m-t-5 {
+    margin-top: 5px !important;
+}
+#YVSY .m-t-0 {
+    margin-top: 0 !important;
+}
+#YVSY .m-t-10 {
+    margin-top: 10px !important;
+}
+#YVSY .m-t-15 {
+    margin-top: 15px !important;
+}
+#YVSY .m-t-20 {
+    margin-top: 20px !important;
+}
+#YVSY .m-t-30 {
+    margin-top: 30px !important;
+}
+#YVSY .m-t-40 {
+    margin-top: 40px !important;
+}
+#YVSY .m-t-50 {
+    margin-top: 50px !important;
+}
+#YVSY .m-b-0 {
+    margin-bottom: 0 !important;
+}
+#YVSY .m-b-5 {
+    margin-bottom: 5px !important;
+}
+#YVSY .m-b-10 {
+    margin-bottom: 10px !important;
+}
+#YVSY .m-b-15 {
+    margin-bottom: 15px !important;
+}
+#YVSY .m-b-20 {
+    margin-bottom: 20px !important;
+}
+#YVSY .m-b-25 {
+    margin-bottom: 25px !important;
+}
+#YVSY .m-b-30 {
+    margin-bottom: 30px !important;
+}
