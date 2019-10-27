@@ -3,18 +3,21 @@
 
 自定义字段列表:
 
-ptype
+ptype|转发协议
 
 sport
 
-rsip
+rsip|源服务器IP
 
-rport
+rport|源服务器端口
 
 bandwidth
 
 forwardstatus
 
+除'ptype|转发协议'、'rsip|源服务器IP'、'rport|源服务器端口'以外请全部设置为仅管理员可见!
+
+'ptype|转发协议'、'rsip|源服务器IP'、'rport|源服务器端口'请设置为必填、在订单上时显示、在账单上显示!
 
 安装:
 
